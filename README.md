@@ -1,4 +1,5 @@
 # Netflix Movies Analysis
+![Netflix History](https://github.com/bridgetmensah/Investigating_Netflix_Data_w_Python/blob/main/redpopcorn.jpg)
 
 This project investigates Netflix movies, focusing on films released in the 1990s. It uses Python to drive insights from a Netflix dataset, leveraging the Numpy, Pandas, and Matplotlib libraries to subset, filter, and visualize dataframes.
 
